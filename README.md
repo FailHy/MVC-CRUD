@@ -1,4 +1,4 @@
-Cara pakai
+Cara running
 1. disarankan dengan Netbeans
 2. export database
 3. create user boleh atau root aja
